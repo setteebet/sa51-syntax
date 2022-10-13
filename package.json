@@ -1,0 +1,18 @@
+{
+  "name": "sa51-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "แอปlottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"แอปlottovip",
+"เล่นหวยฮานอยออนไลน์",
+"lottovip วันเกิด",
+"วิธีแทงหวย24",
+"หวยลาวสดวันนี้"
+],
+  "repository": "https://github.com/setteebet/sa51-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
